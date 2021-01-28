@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@elements": ["src/components/elements"],
+        "@layouts": ["src/components/layouts"],
+        "@templates": ["src/components/templates"],
+        "@routes": ["src/hooks/routes"],
+        "@ethereum": ["ethereum"]
+      }
+    },
+    "typeAcquisition": {
+      "exclude": [ "dotenv" ]
+    }
+}

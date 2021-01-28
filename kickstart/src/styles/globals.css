@@ -1,0 +1,34 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.logo-header {
+  width: 8.5em!important;
+}
+
+.menu-header {
+  margin-top: .625rem!important;
+}
+
+.header-text-center {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.text-uppercase {
+  text-transform: uppercase!important;
+}

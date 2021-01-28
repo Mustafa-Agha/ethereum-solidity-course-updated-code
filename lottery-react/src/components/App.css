@@ -1,0 +1,19 @@
+.center {
+  text-align: center;
+}
+
+.mt-2 {
+  margin-top: 20px;
+}
+
+.ml-2 {
+  margin-left: 20px;
+}
+
+.text-red {
+  color: crimson;
+}
+
+.text-green {
+  color: rgb(103, 163, 13);
+}
